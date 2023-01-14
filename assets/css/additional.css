@@ -47,6 +47,10 @@
          url('../fonts/gothamrnd-light.svg#GothamRoundedLight') format('svg');
 }
 
+.imagehome {
+   aspect-ratio: 1 / 1 !important;
+}
+
 .avatar-img {
   max-width: 30% !important;
   height: auto;
