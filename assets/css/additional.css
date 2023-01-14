@@ -47,9 +47,28 @@
          url('../fonts/gothamrnd-light.svg#GothamRoundedLight') format('svg');
 }
 
+.avatar-img {
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .font-family-handwritten {
   font-family: "Shorelines Script Bold", sans-serif !important;
   font-size: 64px !important;
+}
+
+.font-family-handwritten-small {
+  font-family: "Shorelines Script Bold", sans-serif !important;
+  font-size: 16px !important;
+}
+
+.font-family-handwritten-small-overlay {
+  font-family: "Shorelines Script Bold", sans-serif !important;
+  font-size: 16px !important;
+  color: #BCBCBC;
 }
 
 .text-underline {
@@ -57,7 +76,7 @@
   background: rgba(255, 255, 255, 1);
   margin-right: 5px;
   padding: 2px 2px;
-  font: 400 10px "Heebo", sans-serif;
+  font: 400 12px "Heebo", sans-serif;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   -webkit-transition: linear 0.1s;
