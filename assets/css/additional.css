@@ -49,6 +49,7 @@
 
 .imagehome {
    aspect-ratio: 1 / 1 !important;
+   object-fit:cover !important;
 }
 
 .avatar-img {
