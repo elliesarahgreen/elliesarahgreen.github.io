@@ -7682,6 +7682,7 @@ button.mfp-close:hover {
   position: absolute;
   left: 30px;
   bottom: 30px;
+  right: 30px;
 }
 
 .portfolio-item .portfolio-box .portfolio-title div h1, .portfolio-item .portfolio-box .portfolio-title div h2, .portfolio-item .portfolio-box .portfolio-title div h3, .portfolio-item .portfolio-box .portfolio-title div h4, .portfolio-item .portfolio-box .portfolio-title div h5, .portfolio-item .portfolio-box .portfolio-title div h6, .portfolio-item .portfolio-box .portfolio-title div span {
