@@ -50,66 +50,69 @@
 .imagehome {
    aspect-ratio: 1 / 1 !important;
    object-fit:cover !important;
-   opacity: 0.4;
+   opacity: 0.3;
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
 }
 
 .overlayblue1 {
-  background: rgba(3, 102, 102, 1);
+  background: rgba(255, 84, 0, 0.8);
 }
 
 .overlayblue2 {
-  background: rgba(3, 102, 102, 1);
+  background: rgba(255, 84, 0, 0.8);
 }
 
 .overlayblue3 {
-  background: rgba(3, 102, 102, 1);
+  background: rgba(255, 84, 0, 0.8);
 }
 
 .overlayblue4 {
-  background: rgba(3, 102, 102, 1);
+  background: rgba(255, 84, 0, 0.8);
 }
 
 .overlayorange5 {
-  background: rgba(20, 116, 111, 1);
+  background: rgba(255, 119, 61, 0.9);
 }
 
 .overlayblue6 {
-  background: rgba(36, 130, 119, 1);
+  background: rgba(241, 145, 67, 0.8);
 }
 
 .overlaydarkblue7 {
-  background: rgba(50, 143, 128, 1);
+  background: rgba(255, 178, 56, 0.9);
 }
 
 .overlayorange8 {
-  background: rgba(120, 198, 163, 1);
+  background: rgba(250, 188, 60, 0.7);
 }
 
 .overlayorange9 {
-  background: rgba(136, 212, 171, 1);
+  background: rgba(250, 188, 60, 0.7);
 }
 
 .overlaybrightblue10 {
-  background: rgba(103, 185, 154, 1);
+  background: rgba(255, 133, 0, 1);
 }
 
 .overlayyellow11 {
-  background: rgba(122, 198, 163, 1);
+  background: rgba(255, 145, 0, 1);
 }
 
 .overlayyellow12 {
-  background: rgba(136, 212, 171, 1);
+  background: rgba(255, 72, 0, 0.6);
 }
 
 .overlayteal13 {
-  background: rgba(153, 226, 180, 1);
+  background: rgba(255, 158, 0, 1);
 }
 
 .overlayteal14 {
-  background: rgba(18, 164, 164, 1);
+  background: rgba(255, 158, 0, 1);
 }
+
+.overlayteal15 {
+  background: rgba(255, 182, 0, 1);
 
 .avatar-img {
   max-width: 30% !important;
