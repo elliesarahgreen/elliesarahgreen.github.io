@@ -67,22 +67,40 @@
   background: rgba(101, 183, 199, 1);
 }
 
-.overlayblue4{
+.overlayblue4 {
   background: rgba(171, 255, 255, 1);
 }
 
-.overlayorange5{
+.overlayorange5 {
   background: rgba(255, 165, 0, 1);
 }
 
-.overlayorange8{
+.overlayblue6 {
+  background: rgba(153, 255, 255, 1);
+}
+
+.overlaydarkblue7 {
+  background: rgba(0, 0, 204, 1);
+}
+.overlayorange8 {
   background: rgba(255, 127, 39, 1);
 }
 
-.overlayorange9{
+.overlayorange9 {
   background: rgba(225, 121, 52, 1);
 }
 
+.overlaybrightblue10 {
+  background: rgba(90, 204, 239, 1);
+}
+
+.overlayteal13 {
+  background: rgba(14, 135, 135, 1);
+}
+
+.overlayteal14 {
+  background: rgba(18, 164, 164, 1);
+}
 
 .avatar-img {
   max-width: 30% !important;
