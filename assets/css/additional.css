@@ -113,6 +113,7 @@
 
 .overlayteal15 {
   background: rgba(255, 182, 0, 1);
+}
 
 .avatar-img {
   max-width: 30% !important;
@@ -135,7 +136,7 @@
 .font-family-handwritten-small-overlay {
   font-family: "Shorelines Script Bold", sans-serif !important;
   font-size: 16px !important;
-  color: #BCBCBC;
+  color: #BCBCBC !important;
 }
 
 .text-underline {
