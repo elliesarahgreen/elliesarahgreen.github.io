@@ -50,26 +50,39 @@
 .imagehome {
    aspect-ratio: 1 / 1 !important;
    object-fit:cover !important;
-   opacity: 0.65;
+   opacity: 0.4;
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
 }
 
-.overlaygreen1 {
-  background: rgba(0, 150, 0, 1);
+.overlayblue1 {
+  background: rgba(5, 101, 108, 1);
 }
 
-.overlaygreen2 {
-  background: rgba(0, 200, 0, 1);
+.overlayblue2 {
+  background: rgba(118, 199, 205, 1);
 }
 
-.overlaygreen3 {
-  background: rgba(100, 200, 200, 1);
+.overlayblue3 {
+  background: rgba(101, 183, 199, 1);
 }
 
-.overlayorange1{
-  background: rgba(200, 50, 50, 1);
+.overlayblue4{
+  background: rgba(171, 255, 255, 1);
 }
+
+.overlayorange5{
+  background: rgba(255, 165, 0, 1);
+}
+
+.overlayorange8{
+  background: rgba(255, 127, 39, 1);
+}
+
+.overlayorange9{
+  background: rgba(225, 121, 52, 1);
+}
+
 
 .avatar-img {
   max-width: 30% !important;
