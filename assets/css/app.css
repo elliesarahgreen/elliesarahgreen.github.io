@@ -7669,8 +7669,8 @@ button.mfp-close:hover {
   position: absolute;
   top: 0;
   left: 0;
-  opacity: 0;
-  background: rgba(0, 0, 0, 0.6);
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.1);
   width: 100%;
   height: 100%;
   color: rgba(255, 255, 255, 0.7);
@@ -7686,7 +7686,7 @@ button.mfp-close:hover {
 }
 
 .portfolio-item .portfolio-box .portfolio-title div h1, .portfolio-item .portfolio-box .portfolio-title div h2, .portfolio-item .portfolio-box .portfolio-title div h3, .portfolio-item .portfolio-box .portfolio-title div h4, .portfolio-item .portfolio-box .portfolio-title div h5, .portfolio-item .portfolio-box .portfolio-title div h6, .portfolio-item .portfolio-box .portfolio-title div span {
-  opacity: 0;
+  opacity: 1;
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
   -webkit-transition: ease-out 0.2s;
@@ -7696,8 +7696,6 @@ button.mfp-close:hover {
 .portfolio-item .portfolio-box .portfolio-title div h1, .portfolio-item .portfolio-box .portfolio-title div h2, .portfolio-item .portfolio-box .portfolio-title div h3, .portfolio-item .portfolio-box .portfolio-title div h4, .portfolio-item .portfolio-box .portfolio-title div h5, .portfolio-item .portfolio-box .portfolio-title div h6 {
   margin-bottom: 5px;
   color: #fff;
-  -webkit-transition-delay: 0.1s;
-  transition-delay: 0.1s;
 }
 
 .portfolio-item .portfolio-box .portfolio-title div span {
@@ -7716,6 +7714,7 @@ button.mfp-close:hover {
 
 .portfolio-item .portfolio-box:hover .portfolio-title {
   opacity: 1;
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .portfolio-item .portfolio-box:hover .portfolio-title h1, .portfolio-item .portfolio-box:hover .portfolio-title h2, .portfolio-item .portfolio-box:hover .portfolio-title h3, .portfolio-item .portfolio-box:hover .portfolio-title h4, .portfolio-item .portfolio-box:hover .portfolio-title h5, .portfolio-item .portfolio-box:hover .portfolio-title h6, .portfolio-item .portfolio-box:hover .portfolio-title span {
